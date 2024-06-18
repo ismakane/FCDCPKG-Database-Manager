@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sheet computer="FCDC_ERUD" library_version="1.0" library_name="A320V12" squid_version="R2022B.1">
+  <Objects>
+    <Segment locked="yes" layer="10" id="1" color_name="default" homothetic_ratio_x="1" rotation="0" line_type="$TYPTR" x="36" y="-326" segment_type="6" homothetic_ratio_y="1" decoration_parameter="0">
+      <Points>
+        <Point x="0" y="0"/>
+        <Point x="188" y="284"/>
+      </Points>
+    </Segment>
+    <Segment locked="yes" layer="10" id="2" color_name="default" homothetic_ratio_x="1" rotation="0" line_type="$TYPTR" x="20" y="-332" segment_type="6" homothetic_ratio_y="1" decoration_parameter="0">
+      <Points>
+        <Point x="210" y="296"/>
+        <Point x="0" y="0"/>
+      </Points>
+    </Segment>
+    <Text locked="no" layer="10" id="3" color_name="default" extra_char_at_78="" order_number="1" font_name="T4C4" homothetic_ratio_x="1" value="AEROSPATIALE" rotation="270" x="30" y="-196" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="10" id="4" color_name="default" extra_char_at_78="" order_number="1" font_name="T4C4" homothetic_ratio_x="1" value="A320" rotation="270" x="30" y="-98" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="10" id="5" color_name="default" extra_char_at_78="" order_number="1" font_name="T4C4" homothetic_ratio_x="1" value="A320" rotation="270" x="30" y="-296" homothetic_ratio_y="1"/>
+    <SAOLibObject locked="yes" id="6" color_name="default" homothetic_ratio_x="1" rotation="0" libid="CARTOU" x="224" y="-42" conv_layer="" name="CARTOU" homothetic_ratio_y="1">
+      <Objects>
+        <Text locked="no" layer="10" id="7" color_name="default" extra_char_at_78="" order_number="20" font_name="T6G" homothetic_ratio_x="1" value="FCDC" rotation="0" x="-180" y="-22" homothetic_ratio_y="1"/>
+        <Text locked="no" layer="10" id="8" color_name="default" extra_char_at_78="" order_number="21" font_name="T3C" homothetic_ratio_x="1" value="MAINT.ME" rotation="0" x="-170" y="-11" homothetic_ratio_y="1"/>
+        <Text locked="no" layer="10" id="9" color_name="default" extra_char_at_78="" order_number="22" font_name="T3C" homothetic_ratio_x="1" value="CODES" rotation="0" x="-130" y="-11" homothetic_ratio_y="1"/>
+        <Text locked="no" layer="10" id="10" color_name="default" extra_char_at_78="" order_number="23" font_name="T3C" homothetic_ratio_x="1" value="TXT/004/" rotation="0" x="-92" y="-11" homothetic_ratio_y="1"/>
+        <Text locked="no" layer="10" id="11" color_name="default" extra_char_at_78="" order_number="24" font_name="T3G" homothetic_ratio_x="1" value="GENERAL RULES" rotation="0" x="-148" y="-23" homothetic_ratio_y="1"/>
+        <Text locked="no" layer="10" id="12" color_name="default" extra_char_at_78="" order_number="25" font_name="T3G" homothetic_ratio_x="1" value="1097" rotation="0" x="-91" y="-3" homothetic_ratio_y="1"/>
+        <Text locked="no" layer="10" id="13" color_name="default" extra_char_at_78="" order_number="26" font_name="T3G" homothetic_ratio_x="1" value="SALAVY" rotation="0" x="-34" y="-11" homothetic_ratio_y="1"/>
+        <Text locked="no" layer="10" id="14" color_name="default" extra_char_at_78="" order_number="27" font_name="T3G" homothetic_ratio_x="1" value="07/09/22" rotation="0" x="-28" y="-1" homothetic_ratio_y="1"/>
+        <Text locked="no" layer="10" id="15" color_name="default" extra_char_at_78="" order_number="28" font_name="T3G" homothetic_ratio_x="1" value="3" rotation="0" x="-52" y="-3" homothetic_ratio_y="1"/>
+        <Text locked="no" layer="10" id="16" color_name="default" extra_char_at_78="" order_number="29" font_name="T3C" homothetic_ratio_x="1" value="4" rotation="0" x="-56" y="-11" homothetic_ratio_y="1"/>
+        <Text locked="no" layer="10" id="17" color_name="default" extra_char_at_78="" order_number="30" font_name="T3G" homothetic_ratio_x="1" value="XXX.XXXXXXXX" rotation="0" x="-148" y="-3" homothetic_ratio_y="1"/>
+        <Text locked="no" layer="10" id="18" color_name="default" extra_char_at_78="" order_number="50" font_name="T3G" homothetic_ratio_x="1" value="Book" rotation="0" x="-174" y="-16" homothetic_ratio_y="1"/>
+        <Text locked="no" layer="10" id="19" color_name="default" extra_char_at_78="" order_number="51" font_name="T3G" homothetic_ratio_x="1" value="Chapter" rotation="0" x="-140" y="-16" homothetic_ratio_y="1"/>
+        <Text locked="no" layer="10" id="20" color_name="default" extra_char_at_78="" order_number="52" font_name="T3G" homothetic_ratio_x="1" value="Sheet" rotation="0" x="-100" y="-16" homothetic_ratio_y="1"/>
+        <Text locked="no" layer="10" id="21" color_name="default" extra_char_at_78="" order_number="53" font_name="T3G" homothetic_ratio_x="1" value="Issue" rotation="0" x="-64" y="-16" homothetic_ratio_y="1"/>
+        <Text locked="no" layer="10" id="22" color_name="default" extra_char_at_78="" order_number="54" font_name="T3G" homothetic_ratio_x="1" value="Author" rotation="0" x="-26" y="-16" homothetic_ratio_y="1"/>
+        <Text locked="no" layer="10" id="23" color_name="default" extra_char_at_78="" order_number="55" font_name="T3G" homothetic_ratio_x="1" value="Date" rotation="0" x="-24" y="-5" homothetic_ratio_y="1"/>
+        <Text locked="no" layer="10" id="24" color_name="default" extra_char_at_78="" order_number="56" font_name="T3G" homothetic_ratio_x="1" value="Var:" rotation="0" x="-64" y="-3" homothetic_ratio_y="1"/>
+        <Text locked="no" layer="10" id="25" color_name="default" extra_char_at_78="" order_number="57" font_name="T3G" homothetic_ratio_x="1" value="MOD:" rotation="0" x="-104" y="-3" homothetic_ratio_y="1"/>
+        <Text locked="no" layer="10" id="26" color_name="default" extra_char_at_78="" order_number="58" font_name="T3G" homothetic_ratio_x="1" value="Computer ref:" rotation="0" x="-187" y="-3" homothetic_ratio_y="1"/>
+        <Text locked="no" layer="10" id="27" color_name="default" extra_char_at_78="" order_number="100" font_name="T4D" homothetic_ratio_x="1" value="15. 3.  4" rotation="0" x="-1" y="-23" homothetic_ratio_y="1"/>
+        <Text locked="no" layer="10" id="28" color_name="default" extra_char_at_78="" order_number="110" font_name="T2G" homothetic_ratio_x="1" value="" rotation="0" x="-78" y="-11" homothetic_ratio_y="1"/>
+        <Text locked="no" layer="9" id="29" color_name="default" extra_char_at_78="" order_number="120" font_name="T3G" homothetic_ratio_x="1" value="" rotation="0" x="-12" y="-32" homothetic_ratio_y="1"/>
+        <Text locked="no" layer="9" id="30" color_name="default" extra_char_at_78="" order_number="127" font_name="T3G" homothetic_ratio_x="1" value="" rotation="0" x="-184" y="-32" homothetic_ratio_y="1"/>
+      </Objects>
+      <Ports/>
+    </SAOLibObject>
+    <Text locked="no" layer="7" id="31" color_name="default" extra_char_at_78="" order_number="2" font_name="T2G" homothetic_ratio_x="1" value="27-93-34" rotation="0" x="76" y="-126" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="32" color_name="default" extra_char_at_78="" order_number="2" font_name="T2G" homothetic_ratio_x="1" value="27-92-15" rotation="0" x="76" y="-216" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="33" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="89" rotation="0" x="112" y="-216" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="34" color_name="default" extra_char_at_78="" order_number="2" font_name="T2G" homothetic_ratio_x="1" value="27-92-41" rotation="0" x="76" y="-172" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="35" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="R SPLR3 SERVO VLV 31CE6" rotation="0" x="132" y="-228" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="36" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="R SPLR3 POS XDCR 31CE6" rotation="0" x="132" y="-232" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="37" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="90" rotation="0" x="112" y="-180" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="38" color_name="default" extra_char_at_78="" order_number="2" font_name="T2G" homothetic_ratio_x="1" value="27-64-51" rotation="0" x="76" y="-248" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="39" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="SPBK CTL XDCR UNIT 7CE" rotation="0" x="132" y="-180" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="40" color_name="default" extra_char_at_78="" order_number="2" font_name="T2G" homothetic_ratio_x="1" value="27-92-14" rotation="0" x="76" y="-180" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="41" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="8C" rotation="0" x="112" y="-200" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="42" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="8D" rotation="0" x="112" y="-196" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="43" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="88" rotation="0" x="112" y="-224" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="44" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="87" rotation="0" x="112" y="-228" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="45" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="86" rotation="0" x="112" y="-232" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="46" color_name="default" extra_char_at_78="" order_number="2" font_name="T2G" homothetic_ratio_x="1" value="27-64-51" rotation="0" x="76" y="-232" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="47" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="8E" rotation="0" x="112" y="-192" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="48" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="R SPLR3 POS ERROR 31CE6" rotation="0" x="132" y="-224" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="49" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="PEDAL XDCR A B" rotation="0" x="132" y="-200" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="50" color_name="default" extra_char_at_78="" order_number="1" font_name="T2G" homothetic_ratio_x="1" value="ATA CHAPTER" rotation="0" x="72" y="-308" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="51" color_name="default" extra_char_at_78="" order_number="1" font_name="T2G" homothetic_ratio_x="1" value="FAILURE" rotation="0" x="108" y="-308" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="52" color_name="default" extra_char_at_78="" order_number="1" font_name="T2G" homothetic_ratio_x="1" value="CODE" rotation="0" x="108" y="-304" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="53" color_name="default" extra_char_at_78="" order_number="1" font_name="T2G" homothetic_ratio_x="1" value="ASCII-TEXT-STRING" rotation="0" x="132" y="-308" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="54" color_name="default" extra_char_at_78="" order_number="1" font_name="T2G" homothetic_ratio_x="1" value="BYTE #1" rotation="0" x="108" y="-292" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="55" color_name="default" extra_char_at_78="" order_number="1" font_name="T2G" homothetic_ratio_x="1" value="1ST LINE OF FAILURE MESSAGE" rotation="0" x="132" y="-292" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="56" color_name="default" extra_char_at_78="" order_number="1" font_name="T2G" homothetic_ratio_x="1" value="COLUMN # ON MCDU :" rotation="0" x="140" y="-288" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="57" color_name="default" extra_char_at_78="" order_number="1" font_name="T2G" homothetic_ratio_x="1" value="AND" rotation="0" x="112" y="-288" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="58" color_name="default" extra_char_at_78="" order_number="1" font_name="T2G" homothetic_ratio_x="1" value="BYTE #3" rotation="0" x="108" y="-284" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="59" color_name="default" extra_char_at_78="" order_number="1" font_name="T2G" homothetic_ratio_x="1" value="123456789012345678901234" rotation="0" x="132" y="-284" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="60" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="L THROTTLE CTL UNIT 8KS1" rotation="0" x="132" y="-152" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="61" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="96" rotation="0" x="112" y="-148" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="62" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="R THROTTLE CTL UNIT 8KS2" rotation="0" x="132" y="-148" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="63" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="R PEDALS XDCR UNIT 25CE2" rotation="0" x="132" y="-136" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="64" color_name="default" extra_char_at_78="" order_number="2" font_name="T2G" homothetic_ratio_x="1" value="73-25-00" rotation="0" x="76" y="-152" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="65" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="84" rotation="0" x="112" y="-244" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="66" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="85" rotation="0" x="112" y="-240" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="67" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="R SPLR2 POS XDCR 31CE4" rotation="0" x="132" y="-248" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="68" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="95" rotation="0" x="112" y="-152" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="69" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="8B" rotation="0" x="112" y="-208" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="70" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="8A" rotation="0" x="112" y="-212" homothetic_ratio_y="1"/>
+    <Segment locked="no" layer="7" id="71" color_name="default" homothetic_ratio_x="1" rotation="0" line_type="$TYPTR" x="64" y="-316" segment_type="1" homothetic_ratio_y="1" decoration_parameter="0">
+      <Points>
+        <Point x="0" y="0"/>
+        <Point x="128" y="0"/>
+      </Points>
+    </Segment>
+    <Segment locked="no" layer="7" id="72" color_name="default" homothetic_ratio_x="1" rotation="0" line_type="$TYPTR" x="64" y="-280" segment_type="1" homothetic_ratio_y="1" decoration_parameter="0">
+      <Points>
+        <Point x="0" y="0"/>
+        <Point x="128" y="0"/>
+      </Points>
+    </Segment>
+    <Segment locked="no" layer="7" id="73" color_name="default" homothetic_ratio_x="1" rotation="0" line_type="$TYPTR" x="64" y="-312" segment_type="1" homothetic_ratio_y="1" decoration_parameter="0">
+      <Points>
+        <Point x="0" y="0"/>
+        <Point x="0" y="28"/>
+      </Points>
+    </Segment>
+    <Segment locked="no" layer="7" id="74" color_name="default" homothetic_ratio_x="1" rotation="0" line_type="$TYPTR" x="100" y="-312" segment_type="1" homothetic_ratio_y="1" decoration_parameter="0">
+      <Points>
+        <Point x="0" y="0"/>
+        <Point x="0" y="28"/>
+      </Points>
+    </Segment>
+    <Segment locked="no" layer="7" id="75" color_name="default" homothetic_ratio_x="1" rotation="0" line_type="$TYPTR" x="128" y="-312" segment_type="1" homothetic_ratio_y="1" decoration_parameter="0">
+      <Points>
+        <Point x="0" y="0"/>
+        <Point x="0" y="28"/>
+      </Points>
+    </Segment>
+    <Segment locked="no" layer="7" id="76" color_name="default" homothetic_ratio_x="1" rotation="0" line_type="$TYPTR" x="192" y="-312" segment_type="1" homothetic_ratio_y="1" decoration_parameter="0">
+      <Points>
+        <Point x="0" y="0"/>
+        <Point x="0" y="28"/>
+      </Points>
+    </Segment>
+    <Text locked="no" layer="7" id="77" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="83" rotation="0" x="112" y="-248" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="78" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="L PEDALS XDCR UNIT 25CE1" rotation="0" x="132" y="-140" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="79" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="F/O PITCH CTL SSTU 4CE4" rotation="0" x="132" y="-160" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="80" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="94" rotation="0" x="112" y="-160" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="81" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="CAPT PITCH CTL SSTU 4CE3" rotation="0" x="132" y="-164" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="82" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="98" rotation="0" x="112" y="-136" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="83" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="97" rotation="0" x="112" y="-140" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="84" color_name="default" extra_char_at_78="" order_number="2" font_name="T2G" homothetic_ratio_x="1" value="27-92-15" rotation="0" x="76" y="-140" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="85" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="93" rotation="0" x="112" y="-164" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="86" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="R SPLR1 SERVO VLV 31CE2" rotation="0" x="132" y="-260" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="87" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="R SPLR1 POS ERROR 31CE2" rotation="0" x="132" y="-256" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="88" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="R SPLR2 POS ERROR 31CE4" rotation="0" x="132" y="-240" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="89" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="80" rotation="0" x="112" y="-264" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="90" color_name="default" extra_char_at_78="" order_number="2" font_name="T2G" homothetic_ratio_x="1" value="27-64-51" rotation="0" x="76" y="-264" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="91" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="81" rotation="0" x="112" y="-260" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="92" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="82" rotation="0" x="112" y="-256" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="93" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="R SPLR1 POS XDCR 31CE2" rotation="0" x="132" y="-264" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="94" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="R SPLR2 SERVO VLV 31CE4" rotation="0" x="132" y="-244" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="95" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="F/O ROLL CTL SSTU 4CE2" rotation="0" x="132" y="-168" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="96" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="92" rotation="0" x="112" y="-168" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="97" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="CAPT ROLL CTL SSTU 4CE1" rotation="0" x="132" y="-172" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="98" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="91" rotation="0" x="112" y="-172" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="99" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="L OR R PEDALS XDCR UNIT" rotation="0" x="132" y="-132" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="100" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="99" rotation="0" x="112" y="-132" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="101" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="9A" rotation="0" x="112" y="-126" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="102" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="CHECK PITCH CHANGE OVER" rotation="0" x="132" y="-126" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="103" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="9B" rotation="0" x="112" y="-122" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="104" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="CHECK L AIL CHANGE OVER" rotation="0" x="132" y="-122" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="105" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="9C" rotation="0" x="112" y="-118" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="106" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="CHECK R AIL CHANGE OVER" rotation="0" x="132" y="-118" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="107" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="9D" rotation="0" x="112" y="-114" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="108" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="CHECK PRIORITY WIRING" rotation="0" x="132" y="-114" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="109" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="9E" rotation="0" x="112" y="-110" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="110" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="EMER DISCRET DISAGREE" rotation="0" x="132" y="-110" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="111" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="L PEDAL XDCR UNIT A" rotation="0" x="132" y="-216" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="112" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="R PEDAL XDCR UNIT B" rotation="0" x="132" y="-212" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="113" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="R PEDAL XDCR UNIT C" rotation="0" x="132" y="-208" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="114" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="PEDAL XDCR A C" rotation="0" x="132" y="-196" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="115" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="PEDAL XDCR B C" rotation="0" x="132" y="-192" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="116" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="8F" rotation="0" x="112" y="-188" homothetic_ratio_y="1"/>
+    <Text locked="no" layer="7" id="117" color_name="default" extra_char_at_78="" order_number="0" font_name="T2G" homothetic_ratio_x="1" value="RUD COUPLING ROD 5002CM" rotation="0" x="132" y="-188" homothetic_ratio_y="1"/>
+  </Objects>
+</Sheet>
+<!-- Checksum="85e747d09bf5a01b5c2a7accf58f0f6e" -->

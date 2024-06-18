@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sheet squid_version="2021A" library_version="1.0" library_name="A320V12" computer="FCDC_ERUD">
+  <Objects>
+    <Segment x="36" y="-326" rotation="0" color_name="default" segment_type="6" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="10" locked="yes" id="1" decoration_parameter="0" line_type="$TYPTR">
+      <Points>
+        <Point x="0" y="0"/>
+        <Point x="188" y="284"/>
+      </Points>
+    </Segment>
+    <Segment x="20" y="-332" rotation="0" color_name="default" segment_type="6" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="10" locked="yes" id="2" decoration_parameter="0" line_type="$TYPTR">
+      <Points>
+        <Point x="210" y="296"/>
+        <Point x="0" y="0"/>
+      </Points>
+    </Segment>
+    <Text x="30" extra_char_at_78="" y="-196" order_number="1" rotation="270" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="10" locked="no" value="AEROSPATIALE" id="3" font_name="T4C4"/>
+    <Text x="30" extra_char_at_78="" y="-98" order_number="1" rotation="270" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="10" locked="no" value="A320" id="4" font_name="T4C4"/>
+    <Text x="30" extra_char_at_78="" y="-296" order_number="1" rotation="270" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="10" locked="no" value="A320" id="5" font_name="T4C4"/>
+    <SAOLibObject x="224" y="-42" rotation="0" color_name="default" homothetic_ratio_x="1" conv_layer="" homothetic_ratio_y="1" locked="yes" libid="CARTOU" id="6" name="CARTOU">
+      <Objects>
+        <Text x="-180" extra_char_at_78="" y="-22" order_number="20" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="10" locked="no" value="FCDC" id="7" font_name="T6G"/>
+        <Text x="-170" extra_char_at_78="" y="-11" order_number="21" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="10" locked="no" value="MAINT.ME" id="8" font_name="T3C"/>
+        <Text x="-130" extra_char_at_78="" y="-11" order_number="22" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="10" locked="no" value="CODES" id="9" font_name="T3C"/>
+        <Text x="-92" extra_char_at_78="" y="-11" order_number="23" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="10" locked="no" value="TXT/007/" id="10" font_name="T3C"/>
+        <Text x="-148" extra_char_at_78="" y="-23" order_number="24" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="10" locked="no" value="GENERAL RULES" id="11" font_name="T3G"/>
+        <Text x="-91" extra_char_at_78="" y="-3" order_number="25" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="10" locked="no" value="1093" id="12" font_name="T3G"/>
+        <Text x="-34" extra_char_at_78="" y="-11" order_number="26" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="10" locked="no" value="SALAVY" id="13" font_name="T3G"/>
+        <Text x="-28" extra_char_at_78="" y="-1" order_number="27" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="10" locked="no" value="18/02/21" id="14" font_name="T3G"/>
+        <Text x="-52" extra_char_at_78="" y="-3" order_number="28" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="10" locked="no" value="5" id="15" font_name="T3G"/>
+        <Text x="-56" extra_char_at_78="" y="-11" order_number="29" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="10" locked="no" value="3" id="16" font_name="T3C"/>
+        <Text x="-148" extra_char_at_78="" y="-3" order_number="30" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="10" locked="no" value="XXX.XXXXXXXX" id="17" font_name="T3G"/>
+        <Text x="-174" extra_char_at_78="" y="-16" order_number="50" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="10" locked="no" value="Book" id="18" font_name="T3G"/>
+        <Text x="-140" extra_char_at_78="" y="-16" order_number="51" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="10" locked="no" value="Chapter" id="19" font_name="T3G"/>
+        <Text x="-100" extra_char_at_78="" y="-16" order_number="52" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="10" locked="no" value="Sheet" id="20" font_name="T3G"/>
+        <Text x="-64" extra_char_at_78="" y="-16" order_number="53" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="10" locked="no" value="Issue" id="21" font_name="T3G"/>
+        <Text x="-26" extra_char_at_78="" y="-16" order_number="54" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="10" locked="no" value="Author" id="22" font_name="T3G"/>
+        <Text x="-24" extra_char_at_78="" y="-5" order_number="55" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="10" locked="no" value="Date" id="23" font_name="T3G"/>
+        <Text x="-64" extra_char_at_78="" y="-3" order_number="56" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="10" locked="no" value="Var:" id="24" font_name="T3G"/>
+        <Text x="-104" extra_char_at_78="" y="-3" order_number="57" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="10" locked="no" value="MOD:" id="25" font_name="T3G"/>
+        <Text x="-187" extra_char_at_78="" y="-3" order_number="58" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="10" locked="no" value="Computer ref:" id="26" font_name="T3G"/>
+        <Text x="-1" extra_char_at_78="" y="-23" order_number="100" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="10" locked="no" value="15. 3.  7" id="27" font_name="T4D"/>
+        <Text x="-78" extra_char_at_78="" y="-11" order_number="110" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="10" locked="no" value="" id="28" font_name="T2G"/>
+        <Text x="-12" extra_char_at_78="" y="-32" order_number="120" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="9" locked="no" value="" id="29" font_name="T3G"/>
+        <Text x="-184" extra_char_at_78="" y="-32" order_number="127" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="9" locked="no" value="" id="30" font_name="T3G"/>
+      </Objects>
+      <Ports/>
+    </SAOLibObject>
+    <Text x="132" extra_char_at_78="" y="-116" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="-SLAT" id="31" font_name="T2G"/>
+    <Text x="132" extra_char_at_78="" y="-124" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="-BUS6" id="32" font_name="T2G"/>
+    <Text x="132" extra_char_at_78="" y="-128" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="-BUS5" id="33" font_name="T2G"/>
+    <Text x="112" extra_char_at_78="" y="-220" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="03" id="34" font_name="T2G"/>
+    <Text x="132" extra_char_at_78="" y="-220" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="SPARE" id="35" font_name="T2G"/>
+    <Text x="112" extra_char_at_78="" y="-128" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="15" id="36" font_name="T2G"/>
+    <Text x="112" extra_char_at_78="" y="-132" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="14" id="37" font_name="T2G"/>
+    <Text x="112" extra_char_at_78="" y="-136" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="13" id="38" font_name="T2G"/>
+    <Text x="132" extra_char_at_78="" y="-140" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="-BUS2" id="39" font_name="T2G"/>
+    <Text x="132" extra_char_at_78="" y="-136" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="-BUS3" id="40" font_name="T2G"/>
+    <Text x="132" extra_char_at_78="" y="-132" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="-BUS4" id="41" font_name="T2G"/>
+    <Text x="112" extra_char_at_78="" y="-116" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="18" id="42" font_name="T2G"/>
+    <Text x="112" extra_char_at_78="" y="-120" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="17" id="43" font_name="T2G"/>
+    <Text x="112" extra_char_at_78="" y="-124" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="16" id="44" font_name="T2G"/>
+    <Text x="112" extra_char_at_78="" y="-96" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="1D" id="45" font_name="T2G"/>
+    <Text x="60" extra_char_at_78="" y="-308" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="*BYTE2.DAT" id="46" font_name="T2G"/>
+    <Text x="106" extra_char_at_78="" y="-288" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="FAILURE" id="47" font_name="T2G"/>
+    <Text x="106" extra_char_at_78="" y="-284" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="CODE" id="48" font_name="T2G"/>
+    <Text x="130" extra_char_at_78="" y="-288" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="ASCII-TEXT-STRING :" id="49" font_name="T2G"/>
+    <Text x="164" extra_char_at_78="" y="-272" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="IN CASE OF 2ND LINE :" id="50" font_name="T2G"/>
+    <Text x="130" extra_char_at_78="" y="-272" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="COLUMN # ON MCDU " id="51" font_name="T2G"/>
+    <Text x="106" extra_char_at_78="" y="-268" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="BYTE #2" id="52" font_name="T2G"/>
+    <Text x="130" extra_char_at_78="" y="-268" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="123456789012345678901234" id="53" font_name="T2G"/>
+    <Text x="112" extra_char_at_78="" y="-240" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="00" id="54" font_name="T2G"/>
+    <Text x="112" extra_char_at_78="" y="-228" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="01" id="55" font_name="T2G"/>
+    <Text x="112" extra_char_at_78="" y="-224" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="02" id="56" font_name="T2G"/>
+    <Text x="132" extra_char_at_78="" y="-212" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="OF SEC2" id="57" font_name="T2G"/>
+    <Text x="112" extra_char_at_78="" y="-108" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="1A" id="58" font_name="T2G"/>
+    <Text x="132" extra_char_at_78="" y="-164" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="OF ELAC2" id="59" font_name="T2G"/>
+    <Text x="132" extra_char_at_78="" y="-180" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="OF ELAC1" id="60" font_name="T2G"/>
+    <Text x="132" extra_char_at_78="" y="-176" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="OR BUS9 FROM" id="61" font_name="T2G"/>
+    <Text x="112" extra_char_at_78="" y="-192" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="08" id="62" font_name="T2G"/>
+    <Text x="112" extra_char_at_78="" y="-188" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="09" id="63" font_name="T2G"/>
+    <Text x="112" extra_char_at_78="" y="-180" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="0A" id="64" font_name="T2G"/>
+    <Text x="132" extra_char_at_78="" y="-188" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="AIL ORDER DISAGREE" id="65" font_name="T2G"/>
+    <Text x="132" extra_char_at_78="" y="-240" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="NO MORE TEXT ," id="66" font_name="T2G"/>
+    <Text x="132" extra_char_at_78="" y="-228" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="OF SEC1" id="67" font_name="T2G"/>
+    <Text x="132" extra_char_at_78="" y="-224" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="PB SW" id="68" font_name="T2G"/>
+    <Text x="112" extra_char_at_78="" y="-104" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="1B" id="69" font_name="T2G"/>
+    <Text x="112" extra_char_at_78="" y="-156" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="0F" id="70" font_name="T2G"/>
+    <Text x="132" extra_char_at_78="" y="-208" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="OR BUS7 FROM" id="71" font_name="T2G"/>
+    <Text x="112" extra_char_at_78="" y="-160" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="0E" id="72" font_name="T2G"/>
+    <Text x="112" extra_char_at_78="" y="-164" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="0D" id="73" font_name="T2G"/>
+    <Text x="112" extra_char_at_78="" y="-176" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="0B" id="74" font_name="T2G"/>
+    <Text x="132" extra_char_at_78="" y="-236" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="EVEN IF BYTE #3 IS DIFFERENT FROM 00" id="75" font_name="T2G"/>
+    <Text x="132" extra_char_at_78="" y="-196" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="PERMANENT TESTS" id="76" font_name="T2G"/>
+    <Text x="112" extra_char_at_78="" y="-172" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="0C" id="77" font_name="T2G"/>
+    <Segment x="64" y="-296" rotation="0" color_name="default" segment_type="1" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" id="78" decoration_parameter="0" line_type="$TYPTR">
+      <Points>
+        <Point x="0" y="0"/>
+        <Point x="144" y="0"/>
+      </Points>
+    </Segment>
+    <Segment x="64" y="-264" rotation="0" color_name="default" segment_type="1" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" id="79" decoration_parameter="0" line_type="$TYPTR">
+      <Points>
+        <Point x="0" y="0"/>
+        <Point x="144" y="0"/>
+      </Points>
+    </Segment>
+    <Segment x="64" y="-292" rotation="0" color_name="default" segment_type="1" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" id="80" decoration_parameter="0" line_type="$TYPTR">
+      <Points>
+        <Point x="0" y="0"/>
+        <Point x="0" y="24"/>
+      </Points>
+    </Segment>
+    <Segment x="100" y="-292" rotation="0" color_name="default" segment_type="1" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" id="81" decoration_parameter="0" line_type="$TYPTR">
+      <Points>
+        <Point x="0" y="0"/>
+        <Point x="0" y="24"/>
+      </Points>
+    </Segment>
+    <Segment x="128" y="-292" rotation="0" color_name="default" segment_type="1" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" id="82" decoration_parameter="0" line_type="$TYPTR">
+      <Points>
+        <Point x="0" y="0"/>
+        <Point x="0" y="24"/>
+      </Points>
+    </Segment>
+    <Segment x="208" y="-292" rotation="0" color_name="default" segment_type="1" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" id="83" decoration_parameter="0" line_type="$TYPTR">
+      <Points>
+        <Point x="0" y="0"/>
+        <Point x="0" y="24"/>
+      </Points>
+    </Segment>
+    <Text x="132" extra_char_at_78="" y="-160" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="BUS8" id="84" font_name="T2G"/>
+    <Text x="112" extra_char_at_78="" y="-196" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="07" id="85" font_name="T2G"/>
+    <Text x="132" extra_char_at_78="" y="-192" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="POWER-UP TESTS" id="86" font_name="T2G"/>
+    <Text x="132" extra_char_at_78="" y="-172" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="BUS7" id="87" font_name="T2G"/>
+    <Text x="132" extra_char_at_78="" y="-204" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="OR BUS8 FROM" id="88" font_name="T2G"/>
+    <Text x="132" extra_char_at_78="" y="-120" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="OR" id="89" font_name="T2G"/>
+    <Text x="132" extra_char_at_78="" y="-144" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="-BUS1" id="90" font_name="T2G"/>
+    <Text x="132" extra_char_at_78="" y="-156" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="BUS9" id="91" font_name="T2G"/>
+    <Text x="112" extra_char_at_78="" y="-148" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="10" id="92" font_name="T2G"/>
+    <Text x="112" extra_char_at_78="" y="-100" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="1C" id="93" font_name="T2G"/>
+    <Text x="112" extra_char_at_78="" y="-144" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="11" id="94" font_name="T2G"/>
+    <Text x="112" extra_char_at_78="" y="-140" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="12" id="95" font_name="T2G"/>
+    <Text x="132" extra_char_at_78="" y="-148" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="COM/MON COMPUTATION" id="96" font_name="T2G"/>
+    <Text x="112" extra_char_at_78="" y="-204" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="06" id="97" font_name="T2G"/>
+    <Text x="112" extra_char_at_78="" y="-208" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="05" id="98" font_name="T2G"/>
+    <Text x="112" extra_char_at_78="" y="-212" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="04" id="99" font_name="T2G"/>
+    <Text x="112" extra_char_at_78="" y="-112" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="19" id="100" font_name="T2G"/>
+    <Text x="132" extra_char_at_78="" y="-112" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="-FLAP" id="101" font_name="T2G"/>
+    <Text x="132" extra_char_at_78="" y="-108" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="COM E1/S1" id="102" font_name="T2G"/>
+    <Text x="132" extra_char_at_78="" y="-96" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="A/C PIN PROG INPUTS" id="103" font_name="T2G"/>
+    <Text x="132" extra_char_at_78="" y="-100" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="COM E2/S2" id="104" font_name="T2G"/>
+    <Text x="132" extra_char_at_78="" y="-104" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="SPARE" id="105" font_name="T2G"/>
+    <Text x="130" extra_char_at_78="" y="-284" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="2ND PART OR LINE OF FAILURE MESSAGE" id="106" font_name="T2G"/>
+    <Text x="112" extra_char_at_78="" y="-92" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="1E" id="107" font_name="T2G"/>
+    <Text x="132" extra_char_at_78="" y="-92" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="OF ELAC1/SEC1" id="108" font_name="T2G"/>
+    <Text x="112" extra_char_at_78="" y="-88" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="1F" id="109" font_name="T2G"/>
+    <Text x="132" extra_char_at_78="" y="-88" order_number="0" rotation="0" color_name="default" homothetic_ratio_x="1" homothetic_ratio_y="1" layer="7" locked="no" value="OF ELAC2/SEC2" id="110" font_name="T2G"/>
+  </Objects>
+</Sheet>
